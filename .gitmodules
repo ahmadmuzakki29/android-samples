@@ -1,0 +1,3 @@
+[submodule "android-lib"]
+	path = android-lib
+	url = https://github.com/ahmadmuzakki29/android-lib
