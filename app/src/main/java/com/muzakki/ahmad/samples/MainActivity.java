@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
-import com.muzakki.ahmad.lib.Constant;
+import com.muzakki.ahmad.helper.Constant;
 
 public class MainActivity extends AppCompatActivity {
 
