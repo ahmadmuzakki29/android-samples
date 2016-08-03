@@ -1,1 +1,2 @@
-include ':app', ':android-lib', ':android-material', ':android-helper'
+include ':app', ':android-lib', ':android-material', ':android-helper', ':justifylayout'
+project(':justifylayout').projectDir = new File('justify-layout/justifylayout')

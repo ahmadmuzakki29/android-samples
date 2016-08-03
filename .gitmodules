@@ -7,3 +7,6 @@
 [submodule "android-helper"]
 	path = android-helper
 	url = https://github.com/ahmadmuzakki29/android-helper
+[submodule "justify-layout"]
+	path = justify-layout
+	url = https://github.com/ahmadmuzakki29/justify-layout/
