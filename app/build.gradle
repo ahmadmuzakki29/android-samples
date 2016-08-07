@@ -23,4 +23,5 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.3.0'
     compile project(':android-helper')
     compile project(':android-material')
+    compile project(':justifylayout')
 }
