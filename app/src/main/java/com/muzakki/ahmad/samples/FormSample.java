@@ -18,7 +18,7 @@ public class FormSample extends FormActivity {
         super.onCreate(savedInstanceState);
         fields = new Fields();
 
-        Field foto = new Field("profile", Field.Type.IMAGE);
+        Field foto = new Field.Image("profile");
         fields.add(foto);
 
         Field nama = new Field("nama", Field.Type.TEXT);
